@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbmaxpayne or Mark un real life.
+- 👋 Hi, I’m @dbmaxpayne or Mark in real life.
 - 👀 I’m interested in PowerShell and various other script or programming languages.
 - Sometimes when I write a script that I find useful for others, I will post it here.
 
